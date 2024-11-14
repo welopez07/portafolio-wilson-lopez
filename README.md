@@ -15,7 +15,7 @@ Bienvenido a mi portafolio personal, donde muestro mis habilidades y proyectos c
 
 ## Vista Previa
 
-![Captura de pantalla del portafolio](assets/preview.png)
+![Captura de pantalla del portafolio](assets/Visualizacion_portafolio.png)
 
 ## Características
 - **Responsive Design**: Diseño adaptable para dispositivos móviles, tablets y pantallas de escritorio.
