@@ -1,24 +1,41 @@
-# Challenge ONE | Front End -  Portafolio
+# Portafolio de Wilson López
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169097543-d5ada41e-7db8-481d-9d89-cef4efdf7e05.png">
-</p>
+Bienvenido a mi portafolio personal, donde muestro mis habilidades y proyectos como desarrollador. Este sitio web incluye una sección de presentación, enlaces a mis redes sociales, una galería de proyectos, y un formulario de contacto.
 
+## Índice
+- [Vista Previa](#vista-previa)
+- [Características](#características)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Licencia](#licencia)
 
-### ¡Bienvenido al proyecto base del Portafolio ! Pasos principales:
 ---
-#### Marca este proyecto con una estrella ⭐
-#### Sigue las lecciones y las instrucciones de contenido 📚
 
-### Analisando el repositorio!
----
-### Este repositorio base es una sugerencia inicial, en caso de que aún no tengas un diseño que refleje tu estilo y personalidad. Siéntete libre de modificar tu portafolio como desees, aquí encontrarás:
-#### 🔹index.html: Documento HTML concluído que puedes utilizar en tu proyecto. Las fuentes, los archivos CSS y Javascript ya están referenciados en el documento y todas las secciones contienen comentários que te ayudan a entender la estructura. Si quieres, puedes aventurarte y contruir tu propio HTML.
-#### 🔹style.css: Documento de CSS con instrucciones de estilo y algunas sugerencias de desarrollo.
-#### 🔹script.js: Documento vacío dónde puedes desarrollar tu lógica para validar el formulário, ESTA VALIDACIÓN ES CONSIDERADA UN DESAFÍO EXTRA POR LO QUE NO ES OBLIGATÓRIA SU IMPLEMENTACIÓN.
+## Vista Previa
 
-#### Cuando clones o descargues el proyecto base, tendrás la siguiente presentación:
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169064699-f268715c-822c-4335-b066-97a1bc1ea8e1.png">
-</p>
+![Captura de pantalla del portafolio](assets/preview.png)
 
+## Características
+- **Responsive Design**: Diseño adaptable para dispositivos móviles, tablets y pantallas de escritorio.
+- **Animaciones**: Interacciones sutiles en los elementos, como la rotación de flechas en los enlaces a redes sociales.
+- **Enlace de Currículum**: Posibilidad de descargar el currículum en formato PDF.
+- **Organización Clara**: Secciones bien definidas para habilidades, experiencia y proyectos destacados.
+
+## Tecnologías Utilizadas
+- **HTML5**: Estructura del contenido.
+- **CSS3**: Diseño y layout, incluyendo Flexbox y media queries para la adaptación a dispositivos móviles.
+- **JavaScript**: Funcionalidad interactiva y animaciones.
+- **Markdown**: Documentación.
+
+## Estructura del Proyecto
+```plaintext
+├── assets/              # Imágenes, archivos PDF y otros activos
+│   ├── profile.png      # Foto de perfil
+│   ├── curriculum.pdf   # PDF del currículum
+│   └── arrow.png        # Flecha para los enlaces de redes sociales
+├── index.html           # Página principal del portafolio
+├── styles.css           # Estilos CSS para el diseño del portafolio
+├── script.js            # Archivo JavaScript para la interactividad
+└── README.md            # Documentación del proyecto
